@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CPP_3D_RUNNER",
+			"Path": "C:\\Users\\sawant.ath\\Documents\\Unreal Projects\\CPP_3D\\Source\\CPP_3D_RUNNER.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CPP_3D_RUNNEREditor",
+			"Path": "C:\\Users\\sawant.ath\\Documents\\Unreal Projects\\CPP_3D\\Source\\CPP_3D_RUNNEREditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
